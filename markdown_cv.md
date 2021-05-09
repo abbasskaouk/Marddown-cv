@@ -60,7 +60,14 @@
 ## LANGUAGES
 <br>
 
+* Fluent in English
+* Native Language-Arabic
 
 <br>
 
 ---
+
+## IMAGE
+<br>
+
+![profile pic](https://raw.githubusercontent.com/abbasskaouk/Marddown-cv/master/pic/profile%20pic.jpg)
